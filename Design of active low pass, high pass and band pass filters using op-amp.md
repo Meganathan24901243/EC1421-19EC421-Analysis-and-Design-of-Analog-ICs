@@ -36,12 +36,20 @@ band pass filter depends on the order of high pass and low pass sections.
 
 ## CIRCUIT DIAGRAM: 
 ## LOW_PASS
+<img width="1080" height="806" alt="image" src="https://github.com/user-attachments/assets/a557381c-93f7-4158-b3a2-fa29f8484bb9" />
+
 ## HIGH-PASS
+<img width="1080" height="681" alt="image" src="https://github.com/user-attachments/assets/1aa11db7-56b4-4320-8a13-6b48614ab0e2" />
+
 ## BAND-PASS
 
 ## MODEL GRAPH:
 ## LOW_PASS
+<img width="1080" height="806" alt="image" src="https://github.com/user-attachments/assets/fbfcf761-a384-4380-8c1a-cbbc867d9bb9" />
+
 ## HIGH-PASS
+<img width="1049" height="777" alt="image" src="https://github.com/user-attachments/assets/0dde0c33-be4a-4709-8b8f-a75172aa4a20" />
+
 ## BAND-PASS
 
 ## PROCEDURE - (LPF & HPF): 
@@ -85,10 +93,15 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
 ## LOW_PASS
+<img width="900" height="1280" alt="image" src="https://github.com/user-attachments/assets/42926c81-2763-477a-8d8f-dee9ed2e3511" />
+
 ## HIGH-PASS
+
 ## BAND-PASS
 ## CALCULATIONS:
 ## LOW_PASS
+<img width="910" height="1280" alt="image" src="https://github.com/user-attachments/assets/44728482-6f63-494b-9d1d-0215830689c0" />
+
 ## HIGH-PASS
 ## BAND-PASS
 ## LOW_PASS
