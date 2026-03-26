@@ -49,15 +49,17 @@ input value of V1 and V2.
 waveforms are plotted in a graph sheet.
 
 ## TABULATION:
-<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/c745769e-5cf9-4c5e-bd9a-1b42b0b7cf91" />
+
+<img width="1062" height="518" alt="image" src="https://github.com/user-attachments/assets/606cf604-15ad-48b0-a662-09133ee2c4cd" />
 
 ## CALCULATIONS:
-<img width="956" height="1237" alt="image" src="https://github.com/user-attachments/assets/52147450-aa14-4368-a813-d10d3eef3598" />
 
+<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/0fd77a1a-fc27-4136-a5f8-75892c04b186" />
 
 
 ## GRAPH:
-<img width="956" height="1237" alt="image" src="https://github.com/user-attachments/assets/b4efc05c-180f-4cd2-9c9f-7f4348156033" />
+<img width="956" height="1237" alt="image" src="https://github.com/user-attachments/assets/bcc76679-84b3-440c-bf51-30c94f276249" />
+
 
 
  ## RESULTS:
