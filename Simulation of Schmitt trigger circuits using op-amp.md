@@ -1,4 +1,4 @@
-## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+<img width="1080" height="701" alt="image" src="https://github.com/user-attachments/assets/1440137d-4a8d-43b0-8a14-b216c5cf5d9d" />## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 ## SIMULATION OF SCHMITT TRIGGER
 
 ## AIM:
@@ -25,9 +25,13 @@ LT-Spice
 ## CIRCUIT DIAGRAM:
 ### SCHMITT TRIGGER:
 
+<img width="925" height="672" alt="image" src="https://github.com/user-attachments/assets/8074bb60-6fc9-4777-9ebe-494535684f82" />
+
+
 
 ## OUTPUT GRAPH:
 ### SCHMITT TRIGGER:
+<img width="1080" height="701" alt="image" src="https://github.com/user-attachments/assets/b5a895a4-1283-45bb-b477-22ca8b9aab6a" />
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and Schmitt trigger circuit is simulated.
